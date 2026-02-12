@@ -2,7 +2,7 @@
 농사 관련 정보를 게임 플레이에 자연스럽게 반영하여 농촌 생활을 체험하고 이해할 수 있도록 개발한 농사 시뮬레이션 게임입니다. 작물의 재배, 성장, 수확 과정을 중심으로 농사의 흐름을 경험할 수 있도록 구현했으며, 퀘스트 시스템을 통해 다양한 목표를 수행하며 게임을 진행할 수 있도록 설계했습니다.
 
 ### 주요 기능
-<img width="680" height="247" alt="image" src="https://github.com/user-attachments/assets/28e45020-e2be-413d-9db9-cad288f2f0d6" />
+<img width="680" height="147" alt="image" src="https://github.com/user-attachments/assets/28e45020-e2be-413d-9db9-cad288f2f0d6" />
 
 ### 사용 기술
 ### 설계 특징
