@@ -36,12 +36,12 @@
 <tr>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/f8c3a8c1-4a98-4f22-be3b-77221673f285" width="350"/>
-<br>퀘스트 시스템
+<br>대화 시스템
 </td>
 
 <td align="center">
 <img src="https://github.com/user-attachments/assets/b1a0354e-6ca2-4b77-b787-477335a662a0" width="350"/>
-<br>게임 플레이
+<br>퀘스트 시스템
 </td>
 </tr>
 </table>
