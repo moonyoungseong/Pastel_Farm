@@ -19,7 +19,13 @@
 - **Command Pattern** : 퀘스트 종류, 진행 관리
 - **Singleton Pattern** : 인벤토리, 오디오 등 관리
 
-### 설계 특징
+### 사진
+<img width="1069" height="941" alt="image" src="https://github.com/user-attachments/assets/b9375134-61ee-4fd1-834e-fa5d4e9e4a63" />
+<img width="515" height="284" alt="image" src="https://github.com/user-attachments/assets/b19b1f6f-2ed3-4233-8350-e52987d25c7a" />
+<img width="513" height="284" alt="image" src="https://github.com/user-attachments/assets/f8c3a8c1-4a98-4f22-be3b-77221673f285" />
+<img width="513" height="284" alt="image" src="https://github.com/user-attachments/assets/b1a0354e-6ca2-4b77-b787-477335a662a0" />
+
+
 
 ### 코드 위치 
 FarmProject - assets - script
