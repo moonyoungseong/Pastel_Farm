@@ -7,12 +7,18 @@
 ### 사용 기술
 - **Unity** : 게임 개발 엔진
 - **C#** : 게임 로직 구현
+- **Cinemachine** : 카메라 제어 및 시네마틱 연출
+- **Timeline** : 컷씬 및 이벤트 연출 관리
+- **Coroutine** : 특정 동작 지연 처리
+- **Raycast** : 마우스를 이용한 상호작용
+- **Object Pooling** : UI, 프리팹 효율적 생성/재사용
+- **PlayerPrefs** : 게임 데이터 저장/불러오기
 - **JSON** : NPC 대화, 퀘스트 데이터, 아이템 관리
 - **ScriptableObject** : 작물 속성, 오디오 클립 데이터 관리
 - **Factory Pattern** : 작물 객체 생성 관리
 - **Command Pattern** : 퀘스트 종류, 진행 관리
 - **Singleton Pattern** : 인벤토리, 오디오 등 관리
-- 
+
 ### 설계 특징
 
 ### 코드 위치 
