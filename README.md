@@ -5,6 +5,14 @@
 <img width="480" height="147" alt="image" src="https://github.com/user-attachments/assets/28e45020-e2be-413d-9db9-cad288f2f0d6" />
 
 ### 사용 기술
+- **Unity** : 게임 개발 엔진
+- **C#** : 게임 로직 구현
+- **JSON** : NPC 대화, 퀘스트 데이터, 아이템 관리
+- **ScriptableObject** : 작물 속성, 오디오 클립 데이터 관리
+- **Factory Pattern** : 작물 객체 생성 관리
+- **Command Pattern** : 퀘스트 종류, 진행 관리
+- **Singleton Pattern** : 인벤토리, 오디오 등 관리
+- 
 ### 설계 특징
 
 ### 코드 위치 
